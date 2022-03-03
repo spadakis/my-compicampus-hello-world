@@ -11,5 +11,4 @@
 `A bit about myself`
 ---
 ~~a bit about myself~~
-> achoo
 Here is an [alpaca](https://www.britannica.com/animal/alpaca)
