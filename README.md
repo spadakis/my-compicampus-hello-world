@@ -11,4 +11,4 @@
 `A bit about myself`
 ---
 ~~a bit about myself~~
-Here is an [alpaca](https://www.britannica.com/animal/alpaca)
+Here is an [alpaca](https://www.britannica.com/animal/alpaca) :heart_eyes:
